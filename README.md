@@ -21,7 +21,10 @@
 
 --------------------------------------------
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![CouchDB](https://img.shields.io/badge/CouchDB-EF2229?style=for-the-badge&logo=apache-couchdb&logoColor=white)
+![PouchDB](https://img.shields.io/badge/PouchDB-35A4FF?style=for-the-badge&logo=pouchdb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 --------------------------------------------
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
